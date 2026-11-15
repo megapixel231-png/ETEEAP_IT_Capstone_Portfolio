@@ -1,4 +1,4 @@
-<!doctype html>
+'<!doctype html>
 <html lang="en-US" class="transparentSkybridgeBackground desktopSkybridge light" data-theme="light" style="color-scheme: light; --safe-area-inset-top: 0px; --safe-area-inset-bottom: 0px; --safe-area-inset-left: 0px; --safe-area-inset-right: 0px;"><head><style>@layer sandbox-defaults{html,body,#root{margin:0;padding:0}}</style>
 <meta name="description" content="Metchel Oberleitner's ETEEAP IT portfolio: enterprise systems, automation, cybersecurity, responsible AI, and a three-year digital roadmap. Academic working draft."><title>Metchel Oberleitner | ETEEAP IT Portfolio</title><style>
 :root{--ink:#173648;--muted:#5a6c75;--paper:#fff;--wash:#f3f6f5;--teal:#007d82;--line:#d8e3e3;--sidebar:280px}
